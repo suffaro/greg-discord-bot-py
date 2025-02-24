@@ -1,0 +1,13 @@
+aiohttp==3.11.11
+discord.py==2.4.0
+duckduckgo_search==7.2.1
+langdetect==1.0.9
+openai==1.59.8
+pollinations==2.3.11
+python-dotenv==1.0.1
+PyYAML==6.0.2
+realtimetts==0.4.41
+Requests==2.32.3
+SpeechRecognition==3.14.0
+torch==2.5.1
+python-dotenv==1.0.1
